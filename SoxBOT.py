@@ -5,3 +5,5 @@ sleep(5)
 print("This is  a simple test")
 
 print("Fabian pasted this message")
+
+print("Cloned successfully")
